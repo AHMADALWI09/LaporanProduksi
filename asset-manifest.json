@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LaporanProduksi/static/css/main.76817f26.css",
+    "main.js": "/LaporanProduksi/static/js/main.25820f7f.js",
+    "static/js/787.8fedd6c6.chunk.js": "/LaporanProduksi/static/js/787.8fedd6c6.chunk.js",
+    "index.html": "/LaporanProduksi/index.html",
+    "main.76817f26.css.map": "/LaporanProduksi/static/css/main.76817f26.css.map",
+    "main.25820f7f.js.map": "/LaporanProduksi/static/js/main.25820f7f.js.map",
+    "787.8fedd6c6.chunk.js.map": "/LaporanProduksi/static/js/787.8fedd6c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76817f26.css",
+    "static/js/main.25820f7f.js"
+  ]
+}
